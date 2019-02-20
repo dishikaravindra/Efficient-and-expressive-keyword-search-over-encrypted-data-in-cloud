@@ -1,0 +1,12 @@
+DAY 2
+Date : 15 Feb 2019
+
+       The team continued the Literature Survey by referring the following papers:
+
+Online/Offline attribute based encryption with keyword search against keyword guessing attack 
+     From the above paper we inferred that Attribute Based Encryption with keyword search (ABKS) achieves data access control and search 
+     on encrypted data at the same time.
+
+Secure storage and access of data in cloud computing
+      The above paper mainly focused on cloud storage. With the cloud storage data is stored on multiple third party servers rather than 
+      the dedicated servers used in traditional networked data storage.
